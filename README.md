@@ -1,6 +1,4 @@
-# 🛡️ SilentSense AI — Physical AI Human Micro-Presence Engine
-
-> **Submitted for:** Arduino® Physical AI Challenge India 2026  
+# 🛡️ SilentSense AI — Physical AI Human Micro-Presence Engine
 > **Team:** AFS Synaptic Edge  
 > **Category:** Smart Homes / Non-Invasive Healthcare  
 > **Hardware Target:** Arduino® UNO™ Q + PIR / mmWave Sensor  
