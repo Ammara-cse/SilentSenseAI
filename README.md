@@ -1,7 +1,6 @@
 # 🛡️ SilentSense AI — Physical AI Human Micro-Presence Engine
-> **Team:** AFS Synaptic Edge  
-> **Category:** Smart Homes / Non-Invasive Healthcare  
-> **Hardware Target:** Arduino® UNO™ Q + PIR / mmWave Sensor  
+**Team:** AFS Synaptic Edge   **Category:** Smart Homes / Non-Invasive Healthcare  
+**Hardware Target:** Arduino® UNO™ Q + PIR / mmWave Sensor  
 
 ## 📌 Problem Statement
 Elderly individuals living alone face silent emergencies (unresponsive collapse, fainting, cardiac events). Camera-based solutions violate privacy in personal spaces, while standard motion detectors trigger false alarms during normal sleep or resting periods.
