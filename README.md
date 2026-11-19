@@ -1,4 +1,4 @@
-Tumne SilentSense AI ka project content diya hai. Agar tum ise GitHub README mein clean, professional aur humanized format mein rakhna chahti ho, to is tarah likh sakti ho:
+
 
 # 🛡️ SilentSense AI — Physical AI Human Micro-Presence Engine
 
